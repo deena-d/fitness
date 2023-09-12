@@ -1,4 +1,0 @@
-.mai-ad {
-    --mai-ad-max-width: var(--mai-ad-max-width-tablet, var(--mai-ad-max-width-desktop, unset));
-    --mai-ad-aspect-ratio: var(--mai-ad-aspect-ratio-tablet, var(--mai-ad-aspect-ratio-desktop, 0))
-}
